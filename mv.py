@@ -1,6 +1,8 @@
 import math
 import turtle
 
+server = app.server
+
 # Ajusta las coordenadas del mundo para hacer la gráfica más pequeña
 turtle.setworldcoordinates(-500, -500, 500, 500)
 
